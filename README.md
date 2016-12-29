@@ -1,2 +1,2 @@
 # arch
-Testing stolen or half assed scripts
+half assed scripts for ease of arch install
